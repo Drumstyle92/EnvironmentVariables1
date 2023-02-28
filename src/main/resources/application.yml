@@ -1,0 +1,6 @@
+server:
+  port: 4500
+myCustomProps:
+  authCode: pxextxrxuz
+  devName: Dino
+
